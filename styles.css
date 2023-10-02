@@ -37,10 +37,10 @@ body{
 }
 
 .text{
-    background-color: white; /* Fondo blanco */
-    font-style: italic; /* Letra en itálica */
+    background-color: white; 
+    font-style: italic; 
     text-align: center;
-    width: 300px; 
+    width: 360px; 
     border-radius: 10px;
     padding: 20px;
 }
@@ -48,9 +48,9 @@ body{
 .text2{
     background-color: rgb(38, 36, 36); 
     color: aliceblue;
-    font-style: italic; /* Letra en itálica */
+    font-style: italic; 
     text-align: center;
-    width: 300px; 
+    width: 360px; 
     border-radius: 10px;
     padding: 20px;
 }
